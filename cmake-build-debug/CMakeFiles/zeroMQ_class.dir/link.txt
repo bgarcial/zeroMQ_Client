@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/zeroMQ_class.dir/main.cpp.o CMakeFiles/zeroMQ_class.dir/client.cpp.o  -o zeroMQ_class 
